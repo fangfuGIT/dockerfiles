@@ -4,8 +4,6 @@ services:
   wordpress:
     image: wordpress
     restart: always
-#    ports: 
-#      - 8080:80
     environment:
       WORDPRESS_DB_HOST: mysql
       WORDPRESS_DB_PASSWORD: root
