@@ -15,9 +15,4 @@ ls
 exit
 cd
 more mytest.txt 
-eixt
-eixt
-eixt
-eixt
-eixt
 exit
